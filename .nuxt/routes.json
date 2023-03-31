@@ -1,0 +1,30 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/serge/Desktop/water-4-all/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_a0f8d556"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "/home/serge/Desktop/water-4-all/pages/service.vue",
+    "chunkName": "pages/service",
+    "_name": "_3a22e56a"
+  },
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "/home/serge/Desktop/water-4-all/pages/posts/_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_45848e03"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/serge/Desktop/water-4-all/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6bc21772"
+  }
+]
